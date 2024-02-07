@@ -12,17 +12,28 @@ Professional with a passion for continuous learning, especially in the field of 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
 <p align="center">
+- **Languages & My dashboard**:
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+	<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=6DUDU9&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/  
+<br>  
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=6DUDU9&theme=dark&hide_border=false" />
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<br>   
     
 - **Front-End Development**:
 
@@ -65,4 +76,5 @@ Professional with a passion for continuous learning, especially in the field of 
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/david-averos-021b532ab/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/6DUDU9">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
       </div>
