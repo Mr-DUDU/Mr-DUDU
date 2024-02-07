@@ -59,12 +59,12 @@ Professional with a passion for continuous learning, especially in the field of 
 
 <br>
 
-# Expertise
-- 💻 Developer
+# Hobbies
+- 💻 Programming
 - 🎾 I <3 Tennis
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 Read
+- 🤔 GYM
+- 💬 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -77,4 +77,6 @@ Professional with a passion for continuous learning, especially in the field of 
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/6DUDU9">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="mailto:davidaveros2000@hotmail.com">
+		<img src="https://img.icons8.com/doodle/40/000000/email--v1.png"></a>
       </div>
