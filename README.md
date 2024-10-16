@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%50ff000050&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Friend...;Software+Engineering;MrDUDU"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://data.textstudio.com/output/sample/animated/5/7/3/5/information-24-5375.gif" width = 50px></picture> **About me**
 
 # Profile
 Professional with a passion for continuous learning, especially in the field of software development and applied mathematics. Committed to the incorporation of optimization and quality as fundamental pillars of the corporate culture. I possess a strong foundation in automation and process improvement, underpinned by the philosophy of the SPI Manifesto and interpersonal skills forged through principles from Dale Carnegie's "How to Win Friends & Influence People". My focus is on driving performance and efficiency within the software development lifecycle.
